@@ -1,0 +1,12 @@
+{
+  "name": "northstar-dashboard",
+  "version": "1.0.0",
+  "description": "Northstar Logistics Business Intelligence Dashboard",
+  "scripts": {
+    "build": "echo 'No build needed for static HTML'",
+    "build:azure": "echo 'No build needed for static HTML'"
+  },
+  "keywords": ["dashboard", "power-bi", "analytics"],
+  "author": "Northstar Logistics",
+  "license": "MIT"
+}
